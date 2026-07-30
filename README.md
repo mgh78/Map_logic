@@ -1,4 +1,4 @@
-# Map Logic — Board Game Generator for Mindstorm Robot Simulation
+# Map Logic — Board Game Generator for Robot Simulation
 
 A Qt6 desktop application for visually designing board game maps that are used as simulation environments for LEGO Mindstorm robots. You draw nodes, connect them into a graph, assign tile types, place robots, and export the layout to JSON so the robot simulation can read it.
 
